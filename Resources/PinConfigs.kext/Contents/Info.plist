@@ -2956,102 +2956,14 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
-					<key>Codec</key>
-					<string>Mirone - Realtek ALC662</string>
 					<key>CodecID</key>
 					<integer>283903586</integer>
 					<key>ConfigData</key>
-					<data>
-					AUccEAFHHUABRx4RAUcfkAGHHCABhx2QAYce
-					oAGHH5AB5xwwAecdYQHnHksB5x8BAaccQAGn
-					HTABpx6BAacfAQG3HFABtx1AAbceIQG3HwEB
-					lxxgAZcdkAGXHoEBlx8C
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>5</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
-					<key>Codec</key>
-					<string>Mirone - Realtek ALC662</string>
-					<key>CodecID</key>
-					<integer>283903586</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHUABRx4RAUcfAQFXHCABVx0QAVce
-					AQFXHwEBZxwwAWcdYAFnHgEBZx8BAXccQAF3
-					HSABdx4BAXcfAQGHHFABhx2QAYceoAGHH5AB
-					lxxgAZcdkAGXHoEBlx8CAacccAGnHTABpx6B
-					AacfAQG3HIABtx1AAbceIQG3HwIB5xyQAecd
-					YAHnHkUB5x8B
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>7</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
-					<key>Codec</key>
-					<string>Custom ALC662 by Irving23 for Lenovo ThinkCentre M8400t-N000</string>
-					<key>CodecID</key>
-					<integer>283903586</integer>
-					<key>ConfigData</key>
-					<data>
-					IUccECFHHUAhRx4RIUcfASGHHCAhhx2QIYce
-					oCGHH5AhlxxgIZcdkCGXHqEhlx8CIaccQCGn
-					HTAhpx6BIacfASG3HFAhtx1AIbceISG3HwIh
-					5xwwIecdYSHnHksh5x8B
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>11</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
-					<key>Codec</key>
-					<string>Custom ALC662 by stich86 for Lenovo ThinkCentre M800</string>
-					<key>CodecID</key>
-					<integer>283903586</integer>
-					<key>ConfigData</key>
-					<data>
-					IUccECFHHUAhRx4RIUcfASGHHCAhhx2QIYce
-					oCGHH5AhlxxgIZcdkCGXHqEhlx8CIaccQCGn
-					HTAhpx6BIacfASG3HFAhtx1AIbceISG3HwIh
-					5xwwIecdYSHnHksh5x8B
-					</data>
+					<data>AUceEQGHHqABhx+RAZcegQFHDAI=</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>12</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
-					<key>Codec</key>
-					<string>Custom ALC662 by Vandroiy for Asus X66Ic</string>
-					<key>CodecID</key>
-					<integer>283903586</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccMAFHHQEBRx4QAUcfkAG3HEABtx0AAbce
-					IQG3HwEBlxwQAZcdAQGXHqABlx+QAYccIAGH
-					HQABhx6BAYcfAQFXHPABVx0AAVceAAFXH0AB
-					ZxzwAWcdAAFnHgABZx9AAacc8AGnHQABpx4A
-					AacfQAHHHPABxx0AAcceAAHHH0AB1xzwAdcd
-					AAHXHgAB1x9AAecc8AHnHQAB5x4AAecfQAFH
-					DAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>13</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAg==</data>
 					<key>WakeVerbReinit</key>
