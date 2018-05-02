@@ -2,10 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Author</key>
+	<string>rodion</string>
 	<key>CodecID</key>
-	<integer>1089</integer>
+	<integer>17473</integer>
 	<key>CodecName</key>
-	<string>VT2020/2021</string>
+	<string>0x11064441 Rev:</string>
 	<key>Files</key>
 	<dict>
 		<key>Layouts</key>
@@ -41,7 +43,7 @@
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>QQQGEQ==</data>
+			<data>QUQGEQ==</data>
 		</dict>
 		<dict>
 			<key>Count</key>
@@ -53,7 +55,7 @@
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>QQQGEQ==</data>
+			<data>QUQGEQ==</data>
 		</dict>
 		<dict>
 			<key>Count</key>
