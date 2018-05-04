@@ -5300,6 +5300,18 @@
 					<key>LayoutID</key>
 					<integer>12</integer>
 				</dict>
+				<dict>
+					<key>CodecID</key>
+					<integer>283904146</integer>
+					<key>Comment</key>
+					<string>ALC892, GA-Z270M-D3H No SPDIF 5Ch DSP-Ext</string>
+					<key>ConfigData</key>
+					<data>AUcMAgFHHhEBhx6gAYcfkQGXHoEBtwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>75</integer>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleHDAHardwareConfigDriver</string>
