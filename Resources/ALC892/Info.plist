@@ -100,6 +100,14 @@
 				<key>Path</key>
 				<string>layout99.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC892  - 5Ch No SPDIF DSP-Ext</string>
+				<key>Id</key>
+				<integer>75</integer>
+				<key>Path</key>
+				<string>layout75.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -190,6 +198,14 @@
 				<integer>99</integer>
 				<key>Path</key>
 				<string>Platforms99.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC892  - 5Ch No SPDIF DSP-Ext</string>
+				<key>Id</key>
+				<integer>75</integer>
+				<key>Path</key>
+				<string>PlatformsS.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
