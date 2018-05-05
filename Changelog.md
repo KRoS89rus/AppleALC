@@ -1,8 +1,10 @@
 AppleALC Changelog
 ==================
 #### v1.2.7
-- Added ALC892 layout-id 76- 5+1,  SPDIF, DSP - layout70
-- Added ALC892 layout-id 75- 5+1, no SPDIF, DSP - layout70
+- Added ALC892 layout-id 71 - 5+1,  no SPDIF, with 4 simple Function DSP
+- Added ALC892 layout-id 72 - 5+1,  SPDIF,  with 4 simple Function DSP
+- Added ALC892 layout-id 76 - 5+1,  SPDIF, DSP - layout70 - original
+- Added ALC892 layout-id 75 - 5+1, no SPDIF, DSP - layout70 -original
 - Added NVIDIA HDMI patch for GP107 and GP108 for 10.13.4+
 - Added NVIDIA HDMI patch for GP104 for 10.13.4+
 - Added ALC898 layout-id 98 for MSI GE62 7RE Apache Pro by spectra
