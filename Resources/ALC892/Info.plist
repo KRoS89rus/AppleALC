@@ -102,11 +102,19 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>ALC892  - 5Ch No SPDIF DSP-Ext</string>
+				<string>ALC892  - 6Ch, No SPDIF, DSP=layout70</string>
 				<key>Id</key>
 				<integer>75</integer>
 				<key>Path</key>
 				<string>layout75.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC892  - 6Ch, SPDIF, DSP=layout70</string>
+				<key>Id</key>
+				<integer>76</integer>
+				<key>Path</key>
+				<string>layout76.xml.zlib</string>
 			</dict>
 		</array>
 		<key>Platforms</key>
@@ -201,9 +209,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>ALC892  - 5Ch No SPDIF DSP-Ext</string>
+				<string>ALC892  - 6Ch, No SPDIF, DSP=layout70</string>
 				<key>Id</key>
 				<integer>75</integer>
+				<key>Path</key>
+				<string>PlatformsS.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC892  - 6Ch, SPDIF, DSP=layout70</string>
+				<key>Id</key>
+				<integer>76</integer>
 				<key>Path</key>
 				<string>PlatformsS.xml.zlib</string>
 			</dict>
