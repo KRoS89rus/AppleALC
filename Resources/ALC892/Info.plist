@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Author</key>
-	<string>FredWst, m-dudarev, cecekpawon, Derek</string>
 	<key>CodecID</key>
 	<integer>2194</integer>
 	<key>CodecName</key>
@@ -14,91 +12,11 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>1</integer>
-				<key>Path</key>
-				<string>layout1.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>2</integer>
-				<key>Path</key>
-				<string>layout2.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>3</integer>
-				<key>Path</key>
-				<string>layout3.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone - ALC892 for Laptop</string>
-				<key>Id</key>
-				<integer>4</integer>
-				<key>Path</key>
-				<string>layout4.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone Resources by cecekpawon</string>
-				<key>Id</key>
-				<integer>5</integer>
-				<key>Path</key>
-				<string>layout5.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone Resources by cecekpawon</string>
+				<string>ALC892 for Laptop MSI GP 70 LEOPARD - it works</string>
 				<key>Id</key>
 				<integer>7</integer>
 				<key>Path</key>
 				<string>layout7.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>ALC892 for Clevo P751DMG by Cryse Hillmes</string>
-				<key>Id</key>
-				<integer>28</integer>
-				<key>Path</key>
-				<string>layout28.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>ALC892 for Clevo P65xSE/SA by Derek Zhu</string>
-				<key>Id</key>
-				<integer>31</integer>
-				<key>Path</key>
-				<string>layout31.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 for GA-Z87-HD3 by BIM167</string>
-				<key>Id</key>
-				<integer>92</integer>
-				<key>Path</key>
-				<string>layout92.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 with working SPDIF</string>
-				<key>Id</key>
-				<integer>98</integer>
-				<key>Path</key>
-				<string>layout5.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 for DNS P150EM by Constanta</string>
-				<key>Id</key>
-				<integer>99</integer>
-				<key>Path</key>
-				<string>layout99.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -137,91 +55,11 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>1</integer>
-				<key>Path</key>
-				<string>PlatformsT.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>2</integer>
-				<key>Path</key>
-				<string>PlatformsT.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Toleda Resources by FredWst, m-dudarev</string>
-				<key>Id</key>
-				<integer>3</integer>
-				<key>Path</key>
-				<string>PlatformsT.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone - ALC892 for Laptop</string>
-				<key>Id</key>
-				<integer>4</integer>
-				<key>Path</key>
-				<string>PlatformsM4.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone Resources by cecekpawon</string>
-				<key>Id</key>
-				<integer>5</integer>
-				<key>Path</key>
-				<string>PlatformsM.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mirone Resources by cecekpawon</string>
+				<string>ALC892 for Laptop MSI GP 70 LEOPARD - it works</string>
 				<key>Id</key>
 				<integer>7</integer>
 				<key>Path</key>
-				<string>PlatformsM.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>ALC892 for Clevo P751DMG by Cryse Hillmes</string>
-				<key>Id</key>
-				<integer>28</integer>
-				<key>Path</key>
-				<string>Platforms28.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>ALC892 for Clevo P65xSE/SA by Derek Zhu</string>
-				<key>Id</key>
-				<integer>31</integer>
-				<key>Path</key>
-				<string>Platforms31.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 for GA-Z87-HD3 by BIM167</string>
-				<key>Id</key>
-				<integer>92</integer>
-				<key>Path</key>
-				<string>Platforms92.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 with working SPDIF</string>
-				<key>Id</key>
-				<integer>98</integer>
-				<key>Path</key>
-				<string>Platforms98.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Custom ALC892 for DNS P150EM by Constanta</string>
-				<key>Id</key>
-				<integer>99</integer>
-				<key>Path</key>
-				<string>Platforms99.xml.zlib</string>
+				<string>Platforms.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -229,7 +67,7 @@
 				<key>Id</key>
 				<integer>75</integer>
 				<key>Path</key>
-				<string>PlatformsS.xml.zlib</string>
+				<string>Platforms.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -237,7 +75,7 @@
 				<key>Id</key>
 				<integer>71</integer>
 				<key>Path</key>
-				<string>PlatformsS.xml.zlib</string>
+				<string>Platforms.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -245,7 +83,7 @@
 				<key>Id</key>
 				<integer>76</integer>
 				<key>Path</key>
-				<string>PlatformsS.xml.zlib</string>
+				<string>Platforms.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -253,7 +91,7 @@
 				<key>Id</key>
 				<integer>72</integer>
 				<key>Path</key>
-				<string>PlatformsS.xml.zlib</string>
+				<string>Platforms.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
@@ -263,7 +101,9 @@
 			<key>Count</key>
 			<integer>1</integer>
 			<key>Find</key>
-			<data>QcYGAEmLvCQ=</data>
+			<data>
+			QcYGAEmLvCQ=
+			</data>
 			<key>MaxKernel</key>
 			<integer>13</integer>
 			<key>MinKernel</key>
@@ -271,61 +111,81 @@
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>QcYGAUmLvCQ=</data>
+			<data>
+			QcYGAUmLvCQ=
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>1</integer>
 			<key>Find</key>
-			<data>QcYGAEiLu2g=</data>
+			<data>
+			QcYGAEiLu2g=
+			</data>
 			<key>MinKernel</key>
 			<integer>14</integer>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>QcYGAUiLu2g=</data>
+			<data>
+			QcYGAUiLu2g=
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>1</integer>
 			<key>Find</key>
-			<data>QcaGQwEAAAA=</data>
+			<data>
+			QcaGQwEAAAA=
+			</data>
 			<key>MinKernel</key>
 			<integer>13</integer>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>QcaGQwEAAAE=</data>
+			<data>
+			QcaGQwEAAAE=
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
-			<data>ixnUEQ==</data>
+			<data>
+			ixnUEQ==
+			</data>
 			<key>MinKernel</key>
 			<integer>13</integer>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>kgjsEA==</data>
+			<data>
+			kgjsEA==
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
-			<data>hBnUEQ==</data>
+			<data>
+			hBnUEQ==
+			</data>
 			<key>MinKernel</key>
 			<integer>13</integer>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>AAAAAA==</data>
+			<data>
+			AAAAAA==
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
-			<data>gxnUEQ==</data>
+			<data>
+			gxnUEQ==
+			</data>
 			<key>MaxKernel</key>
 			<integer>15</integer>
 			<key>MinKernel</key>
@@ -333,19 +193,25 @@
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>AAAAAA==</data>
+			<data>
+			AAAAAA==
+			</data>
 		</dict>
 		<dict>
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
-			<data>ihnUEQ==</data>
+			<data>
+			ihnUEQ==
+			</data>
 			<key>MinKernel</key>
 			<integer>16</integer>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>
-			<data>AAAAAA==</data>
+			<data>
+			AAAAAA==
+			</data>
 		</dict>
 	</array>
 	<key>Revisions</key>

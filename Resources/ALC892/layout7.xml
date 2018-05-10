@@ -18,8 +18,8 @@
 			</dict>
 			<key>Inputs</key>
 			<array>
-				<string>LineIn</string>
 				<string>Mic</string>
+				<string>LineIn</string>
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
@@ -31,7 +31,7 @@
 			<key>LineIn</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<integer>0</integer>
+				<integer>1342242840</integer>
 			</dict>
 			<key>LineOut</key>
 			<dict>
@@ -309,8 +309,8 @@
 			</dict>
 			<key>Outputs</key>
 			<array>
-				<string>Headphone</string>
 				<string>IntSpeaker</string>
+				<string>Headphone</string>
 				<string>LineOut</string>
 				<string>SPDIFOut</string>
 			</array>
