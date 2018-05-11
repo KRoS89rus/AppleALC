@@ -1,6 +1,7 @@
 AppleALC Changelog
 ==================
 #### v1.2.7
+- Change Platforms, NodeId SPDIF 17 in NodeId 30, for layout72 and layout76.
 - Added ALC892 layout-id 71 - 5+1,  no SPDIF, with 4 simple Function DSP
 - Added ALC892 layout-id 72 - 5+1,  SPDIF,  with 4 simple Function DSP
 - Added ALC892 layout-id 76 - 5+1,  SPDIF, DSP - layout70 - original
